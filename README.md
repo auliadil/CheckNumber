@@ -1,0 +1,2 @@
+# CheckNumber
+CheckNumber is an Android application that is useful for checking whether a number includes prime numbers and square numbers. I made this application to fulfill the Lab 2 task of mobile programming.CheckNumber is an Android application that is useful for checking whether a number includes prime numbers and square numbers. I made this application to fulfill the Lab 2 assignment of mobile programming course.
